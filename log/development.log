@@ -3,3 +3,14 @@ Connecting to database specified by database.yml
 
 Started GET "/assets/rails.png" for 127.0.0.1 at 2013-06-11 12:48:00 -0700
 Served asset /rails.png - 304 Not Modified (7ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-06-11 15:06:38 -0700
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-11 15:06:42 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (5.0ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
